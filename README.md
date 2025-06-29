@@ -29,3 +29,45 @@ A “Book Now” button in a hotel booking system wireframe shows where users wi
 ---
 
 Wireframes help designers, developers, and stakeholders align on structure and usability **before** moving into visual design and coding.
+
+## 🗂️ Types of Wireframes
+
+Wireframes can be categorized based on their level of detail and functionality. The two main types are:
+
+### 1. **Low-Fidelity Wireframes**
+Low-fidelity (lo-fi) wireframes are basic, simplified sketches or mockups. They focus on layout, structure, and flow without including design elements like colors, fonts, or detailed content.
+
+**Characteristics:**
+- Simple shapes (boxes, lines, placeholders)
+- No color or styling
+- Often hand-drawn or created using basic tools
+- Focuses on structure and layout
+
+**When to Use:**
+- Early stages of the design process
+- Brainstorming and idea validation
+- Quick feedback and iteration
+
+### 2. **High-Fidelity Wireframes**
+High-fidelity (hi-fi) wireframes are detailed and closer to the final product. They include specific design elements, real content, interactions, and even early usability logic.
+
+**Characteristics:**
+- Uses real text and images
+- Shows exact placement and spacing
+- Includes visual design elements (color, font, UI components)
+- May simulate interactions or flows
+
+**When to Use:**
+- Later stages of design
+- Client presentations and stakeholder reviews
+- Preparing for handoff to developers
+
+---
+
+## 🧐 What Type of Wireframe is This?
+
+**Type:** `🔲 <Insert image or wireframe name here>`
+
+**Explanation:**  
+_This wireframe is an example of a **[Low-Fidelity / High-Fidelity]** wireframe because it **[explain features: e.g., uses placeholders and basic layout without detailed design]**. It is typically used during the **[early/late]** stages of the design process to **[purpose: validate ideas / finalize UI before development]**._
+
