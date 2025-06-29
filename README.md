@@ -138,3 +138,31 @@ Before coding begins, a wireframe of the booking flow can be validated against *
 
 Wireframes bridge the gap between ideas and execution, ensuring that software development starts on a solid foundation and stays aligned with project goals.
 
+## 🧠 Real-World Scenario: Wireframing Prevents Usability Issues
+
+### 📍 Scenario:
+A team was developing an online **Hotel Booking Management System**. During the early design phase, they created wireframes for key user flows, including the “Room Selection” and “Checkout” pages.
+
+### 🚨 Problem Identified During Wireframing:
+While reviewing the wireframe for the checkout process, stakeholders noticed that:
+- The **total cost** of the booking was not clearly visible.
+- The **“Book Now” button** was located at the top of the page, requiring users to scroll back up after entering payment information.
+- There was no **confirmation section** for users to review their booking details before submitting.
+
+These issues would have led to user confusion, increased error rates, and potential booking abandonment.
+
+### ✅ Resolution:
+Using the wireframe as a guide, the team:
+- Moved the “Book Now” button to the **bottom of the form** for better accessibility.
+- Added a **summary panel** on the right-hand side to show booking details and total cost in real time.
+- Included a **final confirmation checkbox** to ensure users review their inputs before submission.
+
+### 🎯 Impact on the Final Product:
+- Improved user satisfaction by simplifying the booking process.
+- Reduced support requests related to missed or incorrect bookings.
+- Increased successful booking completions by making the flow more intuitive.
+
+---
+
+### 🔚 Conclusion:
+Wireframing helped the team identify and fix critical usability issues **before any code was written**, saving time and resources. By simulating the user journey early, wireframes ensured that the final product was **user-friendly, efficient, and aligned with user expectations**. This scenario highlights the essential role wireframing plays in building successful, user-centered software.
